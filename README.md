@@ -1,7 +1,7 @@
 # EV-Sales-Dashboard-2023-2024-
 
 ## 📷 Screenshots  
-[Dashboard](https://github.com/Hareen-kumar/EV-Sales-Dashboard-2023-2024-/blob/main/Dashboard%20screenshot.png)  
+![Dashboard](https://github.com/Hareen-kumar/EV-Sales-Dashboard-2023-2024-/blob/main/Dashboard%20screenshot.png)  
 
 ## 📌 Project Overview  
 This project presents an *EV sales dashboard* built using *Excel* to analyze global *EV market trends for 2023-2024*. It highlights:  
